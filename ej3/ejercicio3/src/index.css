@@ -1,0 +1,9 @@
+.onionClass{
+    width: 100vw;
+    height: 100vh;
+    border-color: black;
+    background-color: aquamarine;
+}
+.red{
+    background-color: red;
+}
